@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;" viewBox="0 0 333 416.25" x="0px" y="0px" fill-rule="evenodd" clip-rule="evenodd">
+  <defs>
+    <style type="text/css">
+   
+    .str0 {stroke:black;stroke-width:13.3307;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none}
+   
+  </style>
+  </defs>
+  <g>
+    <rect class="fil0 str0" x="34" y="89" width="266" height="156"/>
+    <polygon class="fil0 str0" points="34,89 300,89 167,182 "/>
+  </g>
+</svg>
